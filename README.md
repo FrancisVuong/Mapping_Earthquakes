@@ -14,6 +14,7 @@ Street View
 Satillite and Dark View
 ![image](https://user-images.githubusercontent.com/92435456/152704112-df053388-1af5-4e43-87cd-3a559e9889e0.png)![image](https://user-images.githubusercontent.com/92435456/152704122-cee7f1db-90bd-48df-8108-b513a0476bdc.png)
 
+As we can see, the closer earthquakes occur to the fault lines of the plates generally, the higher magnitude the earthquake. There are a few of higher magnitute earthquakes that further away from the fault lines but the large majority of them are along fault lines. 
 ## Resources 
 
 - Data Source: [Earthquakes GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson), [Earthquakes above 4.5mag GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson), [Tectonic Plate GeoJSON](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
