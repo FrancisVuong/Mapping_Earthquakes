@@ -8,6 +8,11 @@ In this project we help Basil and Sadhana create an earthquake map with differen
 In order to gather the data and layouts for the maps we created a mapbox account to utilize their API. 
 [mapbox.com](https://www.mapbox.com/)
 
+Street View
+![image](https://user-images.githubusercontent.com/92435456/152704090-7ca0a471-104e-417a-ab44-77cddbe0afc3.png)
+
+Satillite and Dark View
+![image](https://user-images.githubusercontent.com/92435456/152704112-df053388-1af5-4e43-87cd-3a559e9889e0.png)![image](https://user-images.githubusercontent.com/92435456/152704122-cee7f1db-90bd-48df-8108-b513a0476bdc.png)
 
 ## Resources 
 
